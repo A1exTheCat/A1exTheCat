@@ -4,17 +4,17 @@
 
 ## I'm a Frontend Developer  
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend technologies
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- 🌍 I speak fluent English
+- 📚 I’m currently learning **TypeScript**
+- 🌍 I live in Berlin
+- 🔎 I'm looking for a job
+- ✨ I speak fluent English
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas
 
 ### Contact with me 📝
 
 💻 [linkedin] 
-📠 [email]
 
-### Languages and Tools 🛠 
+### Tech Stack 🛠 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
@@ -31,5 +31,3 @@
 <br/>
 
 [linkedin]: https://www.linkedin.com/in/alexander-kotov07/
-[email]: mailto:alexkotov@gmail.com
-

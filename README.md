@@ -7,16 +7,18 @@
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend technologies
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-
+- 🌍 I speak fluent English
 
 ### Contact with me 📝
 
-⚡[linkedin]
+💻 [linkedin] [email](mailto:alexkotov.de@gmail.com)
 
 ### Languages and Tools 🛠 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+![Redux](https://img.shields.io/badge/-Redux-%23CC6699?style=flat-square&logo=redux&logoColor=ffffff)
+![Typescript](https://img.shields.io/badge/-Typescript-%231572B6?style=flat-square&logo=Typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)

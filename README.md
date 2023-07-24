@@ -11,7 +11,8 @@
 
 ### Contact with me 📝
 
-💻 [linkedin] [email](mailto:alexkotov.de@gmail.com)
+💻 [linkedin] 
+📠 [email]
 
 ### Languages and Tools 🛠 
 
@@ -30,4 +31,5 @@
 <br/>
 
 [linkedin]: https://www.linkedin.com/in/alexander-kotov07/
+[email]: alexkotov@gmail.com
 

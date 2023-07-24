@@ -6,9 +6,8 @@
 
 - 📚 I’m currently learning **TypeScript**
 - 🌍 I live in Berlin
-- 🔎 I'm looking for a job
 - ✨ I speak fluent English
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas
+- 🔎 I'm looking for a job
 
 ### Contact with me 📝
 

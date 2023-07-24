@@ -9,7 +9,7 @@
 - ✨ I speak fluent English
 - 🔎 I'm looking for a job
 
-### Contact with me 📝
+### Contact me 📝
 
 💻 [linkedin] 
 

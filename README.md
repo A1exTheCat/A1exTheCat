@@ -31,5 +31,5 @@
 <br/>
 
 [linkedin]: https://www.linkedin.com/in/alexander-kotov07/
-[email]: alexkotov@gmail.com
+[email]: mailto:alexkotov@gmail.com
 

@@ -7,7 +7,7 @@
 - 📚 I’m currently learning **TypeScript**
 - 🌍 I live in Berlin
 - ✨ I speak fluent English
-- 🔎 I'm looking for a job
+
 
 ### Contact me 📝
 

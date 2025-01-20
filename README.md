@@ -4,7 +4,7 @@
 
 ## I'm a Frontend Developer  
 
-- 📚 I’m currently learning **TypeScript**
+- 📚 I’m currently learning **Node JS**
 - 🌍 I live in Berlin
 - ✨ I speak fluent English
 

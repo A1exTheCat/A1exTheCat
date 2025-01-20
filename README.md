@@ -1,7 +1,5 @@
 # Hi there, I'm Alexandr Kotov
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
 ## I'm a Frontend Developer  
 
 - 📚 I’m currently learning **Node JS**
